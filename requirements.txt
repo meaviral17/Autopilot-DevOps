@@ -1,0 +1,12 @@
+google-genai
+python-dotenv
+requests
+gradio>=4.44.0
+loguru
+matplotlib
+pillow
+watchdog
+networkx
+seaborn
+pytest
+pytest-cov
