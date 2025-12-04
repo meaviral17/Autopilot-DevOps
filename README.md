@@ -27,6 +27,7 @@
 ---
 
 ## System Architecture
+<img width="2343" height="1475" alt="Architecture" src="https://github.com/user-attachments/assets/b9b70137-391c-42a4-b72b-7c7eb7ddec99" />
 
 ```mermaid
 graph TD
