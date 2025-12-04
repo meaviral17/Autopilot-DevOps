@@ -1,21 +1,9 @@
----
-title: AutoPilot DevOps
-emoji: 🤖
-colorFrom: blue
-colorTo: purple
-sdk: gradio
-sdk_version: 6.0.1
-app_file: app.py
-pinned: false
----
 
-<div align="center">
 # AutoPilot DevOps
 ### Multi-Agent Code Intelligence & DevOps Automation System
 **Kaggle × Google Agents Intensive 2025 Capstone**  
-**Transformed from Mental Health Companion to DevOps Intelligence**
 
-[![Live Demo](https://img.shields.io/badge/🤗_Live_Demo_on_Hugging_Face-4B0082?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/ajmal-uk/autopilot-devops)
+
 [![Kaggle Writeup](https://img.shields.io/badge/📝_Kaggle_Writeup-Read_Now-10BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/competitions/agents-intensive-capstone-project)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=netlify)](https://aviral-dev.vercel.app/)
 
