@@ -7,17 +7,7 @@
 [![Kaggle Writeup](https://img.shields.io/badge/📝_Kaggle_Writeup-Read_Now-10BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/competitions/agents-intensive-capstone-project)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=netlify)](https://aviral-dev.vercel.app/)
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Multi--Agent_System-Yes-brightgreen?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/A2A_Typed_Protocol-Yes-blue?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Triple--Layer_Safety-Yes-critical?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Persistent_Memory-Yes-purple?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Code_Intelligence-Yes-orange?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini_2.0_Flash-4285F4?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Read--Only_Safe-Yes-DC2626?style=flat-square&logoColor=white"/>
-
-<br><br>
+<img src="https://img.shields.io/badge/Multi--Agent_System-Yes-brightgreen?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/A2A_Typed_Protocol-Yes-blue?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Triple--Layer_Safety-Yes-critical?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Persistent_Memory-Yes-purple?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Code_Intelligence-Yes-orange?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini_2.0_Flash-4285F4?style=flat-square&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Read--Only_Safe-Yes-DC2626?style=flat-square&logoColor=white"/>
 
 > **AutoPilot DevOps is a production-ready, safety-first multi-agent system for code intelligence, log analysis, and DevOps automation.**  
 > **Fully transparent, read-only analysis with defense-in-depth safety architecture.**
